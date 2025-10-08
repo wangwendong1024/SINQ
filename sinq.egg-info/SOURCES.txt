@@ -1,0 +1,17 @@
+LICENSE.txt
+README.md
+setup.py
+sinq/__init__.py
+sinq/awq.py
+sinq/bitpack.py
+sinq/dual_shift.py
+sinq/optimize.py
+sinq/patch_model.py
+sinq/quantizer.py
+sinq/sinkhorn.py
+sinq/sinqlinear.py
+sinq/utils.py
+sinq.egg-info/PKG-INFO
+sinq.egg-info/SOURCES.txt
+sinq.egg-info/dependency_links.txt
+sinq.egg-info/top_level.txt
